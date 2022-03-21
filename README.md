@@ -27,19 +27,19 @@ Langkah-langkah Pembuatan CSS Internal,Eksternal dan Inline
 
 Pertanyaan dan Tugas
 
-1	Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+1.	Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
-![image](https://user-images.githubusercontent.com/83681139/159213802-3b557ced-3e26-4045-820e-533665168eb6.png)
+![image](https://user-images.githubusercontent.com/83681139/159214620-aaa7fd30-761e-4dec-81d9-d60834b11886.png)
 
-2	Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+2.	Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 
+•	Kalau h1 menggunakan internal dan inline pada penggunaan style nya sedangkan intro menggunakan eksternal css style nya
 
-o	Kalau h1 menggunakan internal dan inline pada penggunaan style nya sedangkan intro menggunakan eksternal css style nya
+3.	Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 
-3	Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+•	Semuanya akan tampil tergantung penyebutnya contohnya pada gambar no 1
 
-o	Semuanya akan tampil tergantung penyebutnya contohnya pada gambar no 1
+4.	Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( p id="paragraf-1" class="text-paragraf" )
 
-4	Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( p id="paragraf-1" class="text-paragraf" )
+•	Di praktek Hari ini keduanya tampil tapi berbeda
 
-o	Di praktek Hari ini keduanya tampil tapi berbeda
